@@ -1,7 +1,7 @@
 <p>
     <!-- LINKEDIN -->
     <a href="https://www.linkedin.com/in/danielboullon/">
-        <img alt="Daniel Ernesto Boullon" src="https://media-exp1.licdn.com/dms/image/C4D03AQFklim0mcWEog/profile-displayphoto-shrink_800_800/0/1615954364028?e=1639612800&v=beta&t=cH00bru5ZOE5gCMeF5qSIQ_Az_Ggec_3ga1ThERPpeo" />
+        <img alt="Daniel Ernesto Boullon" src="https://img.shields.io/badge/-LinkedIn-5f00c4?style=flat&logo=Linkedin&logoColor=white" />
     </a>
     <!-- FOLLOWRERS -->
     <a href="https://github.com/DrCoffee84">
