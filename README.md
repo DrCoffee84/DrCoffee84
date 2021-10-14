@@ -27,8 +27,8 @@ I have a lot of experience as a webservices developer and Middleware Administrat
 <br>
 
 ### 👔 I’m currently working on TagLatam 
+### 👔 I’m currently working on Ministry of Health Argentina as Java development and DevOps.
 ### 💼 Take a look at my [portfolio](https://github.com/DrCoffee84/portfolio)
-### 🌱 I’m currently working on Ministry of Health Argentina as Java development and DevOps.
 ### 👯 I’m looking to collaborate in more Devops projects
 ### 💬 Ask me about my hobbies
 
