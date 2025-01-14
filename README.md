@@ -21,16 +21,15 @@
 
 ### Hi there 👋
 I'm Informatics Engineering graduated from the National University of La Matanza (Argentina).
-I'm mostly a backend developer and CI/CD Engineer.<br>
-I have a lot of experience as a webservices developer and System Administrator.
+I'm mostly a SRE .<br>
+I have a lot of experience as a backend developer and DevOps culture.
 
 <br>
 
-### 👔 I’m currently working on TagLatam 
-### 👔 I’m currently working on Ministry of Health Argentina as Java development and DevOps.
+### 👔 I’m currently working on ... Nothing?  
 ### 💼 Take a look at my [portfolio](https://github.com/DrCoffee84/portfolio)
-### 👯 I’m looking to collaborate in more Devops projects
-### 💬 Hobbies: Cook, Exercise, Play VideoGames, Play Guitar. 
+### 👯 I'm looking to implement strategies to optimize the development process.
+### 💬 Hobbies: Cook, Exercise, Play VideoGames, Gym, Trekking, Travel, development VideoGames. 
 
 <br>
 
